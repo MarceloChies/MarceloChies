@@ -1,5 +1,5 @@
 ## 👾 Hello, my name is Marcelo Giovani Chies Filho!
-- I'm 17 years old and currently studying Computer Sience at URI Erechim; 
+- I'm 18 years old and currently studying Computer Sience at URI Erechim; 
 - Started a see few things 2 years ago, and I had made a free course that had a solid base with Programming Logic and Java that made me want to follow this professionally.
 
 ## 🤓💻 What I'm learning at the moment
