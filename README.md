@@ -1,7 +1,7 @@
 # Hi there! I'm Marcelo Chies 👋
 
-### 🎓 Computer Science Student URI Erechim
-Currently in my third semester, studying the world of backend engineering and competitive programming.
+### 🎓Computer Science Student | Backend Developer in Training
+3rd semester at URI Erechim | Studying the world of backend engineering and competitive programming.
 
 ---
 
