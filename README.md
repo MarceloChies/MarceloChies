@@ -37,6 +37,7 @@
   <a href="https://www.linkedin.com/in/marcelogchiesfilho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_mchies"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:m4rc3l0chies@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <p/>
   <a href="https://codeforces.com/profile/marcelo_Chies"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://judge.beecrowd.com/en/profile/1151677"><img src="https://img.shields.io/badge/beecrowd-F6C324?style=for-the-badge&logo=beecrowd&logoColor=black" /></a>
 </div>
