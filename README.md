@@ -8,8 +8,7 @@
 ### 🚀 What I'm working on
 - 🛠️ **Backend Mastery:** Diving deep into PHP (Laravel), Python (Django), and Node.js.
 - 🏆 **Competitive Programming:** Training for the **ICPC/SBC Programming Marathon**, using C++.
-- 🎮 **Game Dev:** Doing small things, like make a mod to a game or produce a simple games (like [battleship]()).
-- 💼 **Hardware:** Learning how to deal with computer and console hardware.
+- 🎮 **Game Dev:** Doing small things, like make a mod to a game or produce a simple games (like [battleship](https://github.com/MarceloChies/Battleship)).
 
 ---
 
@@ -38,6 +37,8 @@
   <a href="https://www.linkedin.com/in/marcelogchiesfilho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_mchies"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:m4rc3l0chies@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/marcelo_Chies"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://judge.beecrowd.com/en/profile/1151677"><img src="https://img.shields.io/badge/beecrowd-F6C324?style=for-the-badge&logo=beecrowd&logoColor=black" /></a>
 </div>
 
 ---
